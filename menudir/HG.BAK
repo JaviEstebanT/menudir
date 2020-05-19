@@ -1,0 +1,7 @@
+@echo off
+cd hg
+hg
+cd..
+cls
+menu.bat
+REM JET INFORMATICS 1996 (C)

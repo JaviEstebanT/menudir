@@ -1,0 +1,7 @@
+@echo off
+cls
+cd util
+vgacopy
+cd..
+MENU.BAT
+REM JET INFORMATICS 1995 (C)
